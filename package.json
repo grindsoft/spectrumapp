@@ -1,0 +1,6 @@
+{
+	"name": "<game_name>",
+	"version": "<game_version>",
+	"description": "<game_description>",
+	"keys": "<array_of_strings>"
+}
